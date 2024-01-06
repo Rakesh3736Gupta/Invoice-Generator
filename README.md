@@ -28,6 +28,8 @@ npm start / npm run build
 
 - [x] Calculate Tax and Discounts
 
+- [ ] https://heartfelt-pudding-30bdcc.netlify.app/
+
 - [ ] Store invoices in Firebase DB
 
 
